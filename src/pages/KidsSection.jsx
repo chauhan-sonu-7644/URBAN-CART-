@@ -34,7 +34,7 @@ const indian = [
     imageSrc:
       "https://img.freepik.com/premium-photo/little-girl-model-studio-shopping_1303-7461.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: " maroon and golden half sleeve shirt with waistcoat standing.",
-    href: "#",
+    href: "/KidsBrands",
   },
   {
     name: " Printed Shirt",
@@ -42,7 +42,7 @@ const indian = [
     imageSrc:
       "https://img.freepik.com/premium-photo/chic-mayoral-blouse-shorts-set-embroidered-satin-stitch-with-delicate-details_763042-5932.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt:"Ethnic Casuals.",
-    href: "#",
+    href: "/KidsBrands",
   },
   {
     name: "HandPicked Trendy Style",
@@ -50,9 +50,8 @@ const indian = [
     imageSrc:
       "https://img.freepik.com/premium-photo/soft-focus-two-years-old-child-choosing-her-own-dresses-from-kids-cloth-rack_34048-113.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "HandPicked Trendy Style Collection.",
-    href: "#",
+    href: "/KidsBrands",
   },
-  
 ];
 const sports = [
   {
@@ -61,7 +60,7 @@ const sports = [
     imageSrc:
       "https://img.freepik.com/free-photo/medium-shot-boys-with-sunglasses-posing-with-copy-space_23-2148423138.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: " Online Exclusive Nike Style.",
-    href: "#",
+    href: "/KidsBrands",
   },
   {
     name: "ActiveWear By Proline",
@@ -69,7 +68,7 @@ const sports = [
     imageSrc:
       "https://img.freepik.com/premium-photo/summer-babies-blue-clothes-accessories-with-t-shirt-shortssneakers-modern-fashion-kids-outfitset-children-s-clothing-spring-summer-flat-lay-top-viewoverheadmockup_280499-1472.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt:"ActiveWear By Proline.",
-    href: "#",
+    href: "/KidsBrands",
   },
   {
     name: "Best of Kids Wear",
@@ -77,14 +76,14 @@ const sports = [
     imageSrc:
       "https://img.freepik.com/premium-photo/childs-clothes-sneakers-fabric_392895-539558.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Best of ActiveWear.",
-    href: "#",
+    href: "/KidsBrands",
   },
 ];
 const shoes = [
   {
     id: 1,
     Brand: "MARKS & SPENCER",
-    href: "",
+    href: "/KidsBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/clothes-newborn-concept-children-s-fashion-top-view_101035-253.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "MARKS & SPENCER",
@@ -93,7 +92,7 @@ const shoes = [
   {
     id: 2,
     Brand: "CHICCO",
-    href: "#",
+    href: "/KidsBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/shelf-with-shirts-that-say-bug-bug-it_1230717-195524.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "CHICCO.",
@@ -102,7 +101,7 @@ const shoes = [
   {
     id: 3,
     Brand: "Neutral Shades",
-    href: "#",
+    href: "/KidsBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/stylish-child-clothes-shoes-accessories-beige-background-flat-lay_495423-46938.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Puma collection mens.",
@@ -111,7 +110,7 @@ const shoes = [
   {
     id: 4,
     Brand: "HRX",
-    href: "#",
+    href: "/KidsBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/3d-illustration-realty-free-image_1023251-174873.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "HRX",
@@ -122,7 +121,7 @@ const acce = [
   {
     id: 1,
     Brand: "T-shirt & jeans ",
-    href: "",
+    href: "/KidsBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/childish-image-with-jeans-yellow-t-shirt-accessories-pink-background_1048944-16739769.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Tshirt & jeans",
@@ -131,7 +130,7 @@ const acce = [
   {
     id: 2,
     Brand: "White T-shirt",
-    href: "#",
+    href: "/KidsBrands",
     imageSrc:
       "https://img.freepik.com/free-photo/little-boy-with-hands-his-pocket-white-t-shirt-blue-jeans-looking-celing-pink-desk_179666-335.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "White T-shirt.",
@@ -140,7 +139,7 @@ const acce = [
   {
     id: 3,
     Brand: "Vest",
-    href: "#",
+    href: "/KidsBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/isolated-tank-top-school-age-child-with-graphic-print-raw-hem-fashion-kid-concept-tshirt_655090-3134363.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Vest.",
@@ -149,7 +148,7 @@ const acce = [
   {
     id: 4,
     Brand: "Animal Print T-shirt",
-    href: "#",
+    href: "/KidsBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/isolated-dolman-sleeve-top-toddlers-with-playful-animal-print-ear-fashion-kid-concept-tshirt_655090-3133406.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Animal Print T-shirt.",
