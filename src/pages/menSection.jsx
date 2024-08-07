@@ -7,7 +7,7 @@ const  product= [
   {
     id: 1,
     Brand: "LEVI`S ",
-    href: "",
+    href: "/MensBrands",
     imageSrc:
       "https://img.freepik.com/free-photo/spring-wardrobe-switch-view_23-2150264152.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Levis T-shirt.",
@@ -16,7 +16,7 @@ const  product= [
   {
     id: 2,
     Brand: "TOMMY HILFIGER",
-    href: "#",
+    href: "/MensBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/businessman-high-quality-image_1252102-29185.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "TOMMY HILFIGER.",
@@ -25,7 +25,7 @@ const  product= [
   {
     id: 3,
     Brand: "PUMA",
-    href: "#",
+    href: "/MensBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/collection-shoes-jacket-hat-are-table_1266048-2531.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Puma collection mens.",
@@ -34,7 +34,7 @@ const  product= [
   {
     id: 4,
     Brand: "NIKE",
-    href: "#",
+    href: "/MensBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/fitness-trends-urban-style-fashion-outfit-set-sport-lady_161568-3086.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Front of men's Nike collection.",
@@ -71,7 +71,7 @@ const indian = [
     imageSrc:
       "https://img.freepik.com/premium-photo/young-indian-man-maroon-golden-half-sleeve-shirt-with-waistcoat-standing-with-glowing-lights_593195-15005.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: " maroon and golden half sleeve shirt with waistcoat standing.",
-    href: "#",
+    href: "/MensBrands",
   },
   {
     name: "Ethnic Casuals",
@@ -79,7 +79,7 @@ const indian = [
     imageSrc:
       "https://img.freepik.com/free-photo/stylish-handsome-indian-man-tshirt-pastel-wall_496169-1571.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt:"Ethnic Casuals.",
-    href: "#",
+    href: "/MensBrands",
   },
   {
     name: "HandPicked Trendy Style",
@@ -87,9 +87,9 @@ const indian = [
     imageSrc:
       "https://img.freepik.com/premium-photo/handsome-hipster-businessman-guy-with-stylish-eyewear-fancy-denim-clothes-denim-shirt-holding-fashion-leather-bag-studio-with-creative-colored-pink-blue-commercial-lighting_338491-17037.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Cleaning Tools Collection.",
-    href: "#",
+    href: "/MensBrands",
   },
-  
+
 ];
 const sports = [
   {
@@ -98,7 +98,7 @@ const sports = [
     imageSrc:
       "https://img.freepik.com/free-photo/strong-guy-with-muscular-body-workout-near-fence-morning-stadium-he-wears-sport-clothes-listening-music-with-headphones_197531-1139.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: " Online Exclusive Nike Style.",
-    href: "#",
+    href: "/MensBrands",
   },
   {
     name: "ActiveWear By Proline",
@@ -106,7 +106,7 @@ const sports = [
     imageSrc:
       "https://img.freepik.com/premium-photo/portrait-focused-motivated-happy-afro-american-young-handsome-sportive-man-with-earphones-running-inside-abandoned-place-middle-two-walls-with-sun-lights-his-back_232070-2770.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt:"ActiveWear By Proline.",
-    href: "#",
+    href: "/MensBrands",
   },
   {
     name: "Best of ActiveWear",
@@ -114,14 +114,14 @@ const sports = [
     imageSrc:
       "https://img.freepik.com/free-photo/sporty-man-blue-sports-jacket-ties-his-sneakers_613910-16138.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Best of ActiveWear.",
-    href: "#",
+    href: "/MensBrands",
   },
-];
+]
 const shoes = [
   {
     id: 1,
     Brand: "Sneakers For Dancers ",
-    href: "",
+    href: "/MensBrands",
     imageSrc:
       "https://img.freepik.com/free-photo/brown-leather-shoes_1203-7562.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Sneakers For Dancers.",
@@ -130,7 +130,7 @@ const shoes = [
   {
     id: 2,
     Brand: "Outback OutdoorShoes",
-    href: "#",
+    href: "/MensBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/new-mens-sneakers-box-white-background_206268-12492.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Outback OutdoorShoes.",
@@ -139,7 +139,7 @@ const shoes = [
   {
     id: 3,
     Brand: "Neutral Shades",
-    href: "#",
+    href: "/MensBrands",
     imageSrc:
       "https://img.freepik.com/free-photo/black-leather-sports-shoe-with-elegant-shoelace-generated-by-ai_188544-19647.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Puma collection mens.",
@@ -148,7 +148,7 @@ const shoes = [
   {
     id: 4,
     Brand: "Flip-Flops & Sliders",
-    href: "#",
+    href: "/MensBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/womens-flipflops-summer-shoes-beach-walk-summer_344253-4927.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Flip-Flops & Sliders.",
@@ -159,7 +159,7 @@ const acce = [
   {
     id: 1,
     Brand: "Smart Wathces ",
-    href: "",
+    href: "/MensBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/watch-with-black-face-red-dial-side_1249034-2715.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Smart Wathces",
@@ -168,7 +168,7 @@ const acce = [
   {
     id: 2,
     Brand: "Apple MacBook",
-    href: "#",
+    href: "/MensBrands",
     imageSrc:
       "https://img.freepik.com/free-photo/high-angle-laptop-flowers-arrangement_23-2149672636.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Apple MacBook.",
@@ -177,7 +177,7 @@ const acce = [
   {
     id: 3,
     Brand: "Earbuds",
-    href: "#",
+    href: "/MensBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/white-wireless-headphones-use-bluetooth-connect-audio-devices-sound-is-passed-from-one-place-another-via-radio-waves-frequency-that-it-does-receive-cause-interference_695181-2148.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Earbuds.",
@@ -186,7 +186,7 @@ const acce = [
   {
     id: 4,
     Brand: "Minimalist Watches",
-    href: "#",
+    href: "/MensBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/luxury-stylish-golden-watch-with-silver-golden-chain-white-surface_752325-30366.jpg?size=626&ext=jpg&ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Minimalist Watches.",

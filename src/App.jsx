@@ -19,7 +19,8 @@ import MensCollectionStore from './pages/MensCollPages/mensCollectionStore';
 import WomenCollectionStore from './pages/WomencollPages/WomenCollectionStore';
 import BestSellStore from './pages/BestSellPages/BestSellStore';
 import BestSellers from './components/BestSellers';
-
+import MensBrands from './pages/MensSectionPages/MensBrands';
+import WomenBrands from './pages/WomenSectionPage/womenBrands';
 
 const App = () => (
   <>
@@ -41,6 +42,8 @@ const App = () => (
       <Route path='/WomenCollectionStore' element={<WomenCollectionStore/>} />
       <Route path='/BestSellStore' element={<BestSellStore/>} />
       <Route path='/BestSellers' element={<BestSellers/>} />
+      <Route path='/MensBrands' element={<MensBrands/>}  />
+      <Route path='/womenBrands' element={<WomenBrands/>} />
     </Routes>
     <Footer/>
     </BrowserRouter>

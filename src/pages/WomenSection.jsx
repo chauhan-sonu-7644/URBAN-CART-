@@ -7,7 +7,7 @@ const  product= [
   {
     id: 1,
     Brand: "BIBA ",
-    href: "",
+    href: "/womenBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/full-length-modern-woman-dress-standing-near-wardrobe-with-clothes-choosing-what-wear-isolated-pink_171337-68204.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "BIBA.",
@@ -16,7 +16,7 @@ const  product= [
   {
     id: 2,
     Brand: "VERO MODA",
-    href: "#",
+    href: "/womenBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/young-woman-looking-away-while-standing-store_1048944-5095049.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "VERO MODA.",
@@ -25,7 +25,7 @@ const  product= [
   {
     id: 3,
     Brand: "H & M",
-    href: "#",
+    href: "/womenBrands",
     imageSrc:
       "https://img.freepik.com/free-photo/serious-short-haired-girl-spending-time-shopping-choosing-attire-photoshoot-indoor-portrait-unsure-caucasian-lady-black-clothes-looking-hanger-with-white-dress_197531-7854.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "H & M collection mens.",
@@ -34,7 +34,7 @@ const  product= [
   {
     id: 4,
     Brand: "MARKS & SPENCER",
-    href: "#",
+    href: "/womenBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/women-beautiful-fashion-dress_953724-5144.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "MARKS & SPENCER.",
@@ -64,33 +64,6 @@ const promoItems = [
     description: "Last chance to grab deals!",
   },
 ];
-
- const indian = [
-  {
-    name: "All Maroon Indian Wear",
-    description: "For an always cool outlook",
-    imageSrc:
-      "https://img.freepik.com/free-photo/young-woman-beautiful-red-dress_1303-17508.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
-    imageAlt: " maroon and golden half sleeve shirt with waistcoat standing.",
-    href: "#",
-  },
-  {
-    name: "Ethnic Casuals",
-    description: "Indians surely know the to comfort",
-    imageSrc:
-      "https://img.freepik.com/free-photo/young-indian-woman-wearing-sari_23-2149400848.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
-    imageAlt:"Ethnic Casuals.",
-    href: "#",
-  },
-  {
-    name: "HandPicked Trendy Style",
-    description: "Update the language of comfort with these",
-    imageSrc:
-      "https://img.freepik.com/premium-photo/young-woman-looking-away-while-standing-outdoors_1048944-8205366.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
-    imageAlt: "Cleaning Tools Collection.",
-    href: "#",
-  },
-];
 const sports = [
   {
     name: "Online Exclusive Nike Style",
@@ -98,7 +71,7 @@ const sports = [
     imageSrc:
       "https://img.freepik.com/free-photo/woman-headphones-listens-music-does-warm-up-before-fitness-workout-purple-wall_197531-16613.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: " Online Exclusive Nike Style.",
-    href: "#",
+    href: "/womenBrands",
   },
   {
     name: "ActiveWear By Proline",
@@ -106,7 +79,7 @@ const sports = [
     imageSrc:
       "https://img.freepik.com/free-photo/slender-woman-purple-sports-bodysuit-white-headphones-resting-sitting-mat-fitness_197531-16619.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt:"ActiveWear By Proline.",
-    href: "#",
+    href: "/womenBrands",
   },
   {
     name: "Best of ActiveWear",
@@ -114,14 +87,14 @@ const sports = [
     imageSrc:
       "https://img.freepik.com/free-photo/young-woman-great-mood-doing-yoga-purple-fitness-mat_197531-16672.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Best of ActiveWear.",
-    href: "#",
+    href: "/womenBrands",
   },
 ];
 const shoes = [
   {
     id: 1,
     Brand: "Sneakers For Dancers ",
-    href: "",
+    href: "/womenBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/person-is-putting-pair-sneakers-with-pink-sole_1034910-76767.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Sneakers For Dancers.",
@@ -130,7 +103,7 @@ const shoes = [
   {
     id: 2,
     Brand: "Outback OutdoorShoes",
-    href: "#",
+    href: "/womenBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/assortment-womens-shoes-summer-fashion_206268-12131.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Outback OutdoorShoes.",
@@ -139,7 +112,7 @@ const shoes = [
   {
     id: 3,
     Brand: "Neutral Shades",
-    href: "#",
+    href: "/womenBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/pair-pink-high-heels-sitting-top-block-colored-blocks-generative-ai_97167-6991.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Puma collection mens.",
@@ -148,7 +121,7 @@ const shoes = [
   {
     id: 4,
     Brand: "Flip-Flops & Sliders",
-    href: "#",
+    href: "/womenBrands",
     imageSrc:
       "https://img.freepik.com/free-photo/still-life-say-no-fast-fashion_23-2149669600.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Flip-Flops & Sliders.",
@@ -159,7 +132,7 @@ const acce = [
   {
     id: 1,
     Brand: "Best Of Imittire ",
-    href: "",
+    href: "/womenBrands",
     imageSrc:
       "https://img.freepik.com/free-photo/top-view-sterling-silver-earrings-with-swarovski-crystal-with-studs-black-wall_140725-12952.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Best Of Imittire",
@@ -168,7 +141,7 @@ const acce = [
   {
     id: 2,
     Brand: "The Mangalsutra Collection",
-    href: "#",
+    href: "/womenBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/mangalsutra-golden-necklace-worn-by-married-hindu-women-arranged-with-traditional-saree-with-huldi-kumkum-mogra-flowers-gajra-selective-focus_466689-64352.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "The Mangalsutra Collection.",
@@ -177,7 +150,7 @@ const acce = [
   {
     id: 3,
     Brand: "HandCraft Jewellery",
-    href: "#",
+    href: "/womenBrands",
     imageSrc:
       "https://img.freepik.com/free-photo/gold-necklace-is-piece-fabric-with-red-cloth-background_1340-42873.jpg?size=626&ext=jpg&ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "HandCraft Jewellery.",
@@ -186,12 +159,38 @@ const acce = [
   {
     id: 4,
     Brand: "Gold bracelet",
-    href: "#",
+    href: "/womenBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/set-jewelry-including-red-rose-gold-bracelet_706452-25452.jpg?size=626&ext=jpg&ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Red rose and gold bracelet.",
     description: "A set of jewelry including a red rose and gold bracelet",
   },
+];
+const indian = [
+  {
+    name: "All Maroon Indian Wear",
+    description: "For an always cool outlook",
+    imageSrc:
+      "https://img.freepik.com/free-photo/young-woman-beautiful-red-dress_1303-17508.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
+    imageAlt: " maroon and golden half sleeve shirt with waistcoat standing.",
+    href: "/womenBrands#",
+  },
+  {
+    name: "Ethnic Casuals",
+    description: "Indians surely know the to comfort",
+    imageSrc:
+      "https://img.freepik.com/free-photo/young-indian-woman-wearing-sari_23-2149400848.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
+    imageAlt:"Ethnic Casuals.",
+    href: "/womenBrands",
+  },
+  {
+    name: "HandPicked Trendy Style",
+    description: "Update the language of comfort with these",
+    imageSrc:
+      "https://img.freepik.com/premium-photo/young-woman-looking-away-while-standing-outdoors_1048944-8205366.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
+    imageAlt: "Cleaning Tools Collection.",
+    href: "/womenBrands",
+  }
 ];
 
 function WomenSection() {
