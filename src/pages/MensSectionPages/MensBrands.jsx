@@ -221,8 +221,8 @@ function BrandsPage() {
               </li>
               <li className="text-body mt-0.5 text-base">/</li>
               <li className="text-body hover:text-heading px-2.5 text-sm transition duration-200 ease-in first:pl-0 last:pr-0">
-                <a className="capitalize font-semibold" href="/BestSellStore">
-                  Collection
+                <a className="capitalize font-semibold" href="/MensBrands">
+                  Mens Collection
                 </a>
               </li>
             </ol>

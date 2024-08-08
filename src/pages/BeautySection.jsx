@@ -34,7 +34,7 @@ const cols = [
     imageSrc:
       "https://img.freepik.com/free-vector/realistic-ad-charcoal-sheet-mask-product_52683-44056.jpg?ga=GA1.1.714022349.1721762449&semt=sph",
     imageAlt: "Herbal Charcoal peel-Off Mask.",
-    href: "#",
+    href: "/BeautyBrands",
   },
   {
     name: " PLUM",
@@ -42,7 +42,7 @@ const cols = [
     imageSrc:
       "https://img.freepik.com/free-vector/realistic-sunscreen-bottle-promo_52683-62303.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt:"PLUM.",
-    href: "#",
+    href: "/BeautyBrands",
   },
   {
     name: "Lotus Herbals",
@@ -50,14 +50,14 @@ const cols = [
     imageSrc:
       "https://img.freepik.com/premium-photo/lotus-cosmetic-ads-template_756748-20484.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Lotus Herbals.",
-    href: "#",
+    href: "/BeautyBrands",
   },
 ];
 const beautybrands = [
   {
     id: 1,
     Brand: "DOT & KEY",
-    href: "",
+    href: "/BeautyBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/cosmetic-packaging-design-modern-presentation-with-natural-background_95218-3768.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "DOT & KEY",
@@ -67,7 +67,7 @@ const beautybrands = [
   {
     id: 2,
     Brand: "Conscious Chemist",
-    href: "#",
+    href: "/BeautyBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/jar-empty-white-plastic-tubes-cosmetics-yellow-background-packaging-cream-gel-serum-advertising-product-promotion-mock-up_116441-19910.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Conscious Chemist.",
@@ -77,7 +77,7 @@ const beautybrands = [
   {
     id: 3,
     Brand: "GLAMVEDA",
-    href: "#",
+    href: "/BeautyBrands",
     imageSrc:
       "https://img.freepik.com/premium-photo/sosmetics-isolated-black_392895-467787.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "GLAMVEDA LIPSTICK.",
@@ -87,7 +87,7 @@ const beautybrands = [
   {
     id: 4,
     Brand: "SKINN",
-    href: "#",
+    href: "/BeautyBrands",
     imageSrc:
       "https://img.freepik.com/free-photo/blank-perfume-glass-bottle-design-resource_53876-105945.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "SKINN PERFUME",
@@ -99,7 +99,7 @@ const acce = [
   {
     id: 1,
     Brand: "Love Beauty & Planet",
-    href: "",
+    href: "/BeautyBrands",
     imageSrc:
       "https://img.freepik.com/free-vector/concept-poster-organic-natural-cream_88138-50.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Love Beauty & Planet",
@@ -108,7 +108,7 @@ const acce = [
   {
     id: 2,
     Brand: "Makeup Realistic Compositiont",
-    href: "#",
+    href: "/BeautyBrands",
     imageSrc:
       "https://img.freepik.com/free-vector/makeup-realistic-composition_1284-18448.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Makeup Realistic Compositiont.",
@@ -117,7 +117,7 @@ const acce = [
   {
     id: 3,
     Brand: "Organic soap mockup",
-    href: "#",
+    href: "/BeautyBrands",
     imageSrc:
       "https://img.freepik.com/premium-psd/organic-soap-mockup_23-2151552126.jpg?ga=GA1.1.714022349.1721762449&semt=ais_hybrid",
     imageAlt: "Organic soap mockup.",
@@ -126,7 +126,7 @@ const acce = [
   {
     id: 4,
     Brand: "Blue Haven",
-    href: "#",
+    href: "/BeautyBrands",
     imageSrc:
       "https://img.freepik.com/free-photo/top-view-black-mascara-with-grey-background_23-2148299644.jpg?ga=GA1.1.714022349.1721762449&semt=sph",
     imageAlt: "Blue Haven.",

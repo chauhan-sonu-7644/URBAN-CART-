@@ -22,6 +22,7 @@ import BestSellers from './components/BestSellers';
 import MensBrands from './pages/MensSectionPages/MensBrands';
 import WomenBrands from './pages/WomenSectionPage/womenBrands';
 import KidsBrands from './pages/KidsSectionPage/KidsBrands.jsx';
+import BeautyBrands from './pages/BeautySectionPage/BeautyBrands.jsx';
 
 const App = () => (
   <>
@@ -46,6 +47,7 @@ const App = () => (
       <Route path='/MensBrands' element={<MensBrands/>}  />
       <Route path='/womenBrands' element={<WomenBrands/>} />
       <Route path='/KidsBrands' element={<KidsBrands/>} />
+      <Route path='/BeautyBrands' element={<BeautyBrands/>} />
     </Routes>
     <Footer/>
     </BrowserRouter>
